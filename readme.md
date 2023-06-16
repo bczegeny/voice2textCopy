@@ -1,6 +1,6 @@
 # Audio Transcription for M1 Mac
 
-This is a Python script that records audio, transcribes it using the Faster Whisper ASR model, and copies the transcription to the clipboard. It is designed to run natively on M1 Apple Silicon chips.
+This is a Python script that records audio, transcribes it using the [Faster Whisper](https://github.com/guillaumekln/faster-whisper) ASR model, and copies the transcription to the clipboard. It is designed to run natively on M1 Apple Silicon chips.
 
 ## Dependencies
 
